@@ -1,0 +1,40 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+
+
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aquamarine;
+}
+.tercero {
+    display: primero;
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap: 1rem;
+    padding: 1rem;
+}
+
+.tercero {
+    background-color: aqua;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    text-align: center;
+}
+
+.tercero {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+
+.tercero {
+ width: 100%;
+height: 100%;
+object-fit: cover;
+border-radius: 0.5rem;
+
+}
